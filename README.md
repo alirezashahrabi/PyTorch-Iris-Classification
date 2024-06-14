@@ -8,8 +8,8 @@ The model is designed to classify Iris flower species into three classes based o
 
 ## Files
 
-- `irish_model.pth`: The saved state dictionary of the PyTorch model.
-- `irish.ipynb`: The Jupyter notebook containing the model training code.
+- `iris_model.pth`: The saved state dictionary of the PyTorch model.
+- `iris.ipynb`: The Jupyter notebook containing the model training code.
 - `README.md`: This documentation file.
 
 ## Usage
